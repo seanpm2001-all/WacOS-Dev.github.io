@@ -1,295 +1,146 @@
+# WacOS
 
-***
+_A Linux distribution that mimics MacOS (modern and classic) iOS, and other Apple operating systems, but is open, customizable, and free to use on non-apple hardware._
 
-# <projectName>
+# Concept: WacOS (August 27th 2019)
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+**Note**
 
-# By:
+_As of May 27th 2020 at 11:21 pm, this project is still only just a concept, and is in no way functional yet. I am just laying the foundation at the moment._
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+**Thought of by Sean on August 27th 2019**
 
-### Top
+# WacOS (Linux)
 
-# `README.md`
+Linux distribution that has most of the functionality of MacOS 10.9 but without proprietary features
+A desktop environment menu where you can change the theme to make the OS look like
+1. System 1
+2. System 2
+3. System 3
+4. System 4
+5. System 5
+6. System 6
+7. MacOS 7
+8. MacOS 8
+9. MacOS 9
+10. MacOS X Beta
+11. MacOS X 10.0
+12. MacOS X 10.1
+13. MacOS X 10.2
+14. MacOS X 10.3
+15. MacOS X 10.4
+16. MacOS X 10.5
+17. MacOS X 10.6
+18. MacOS X 10.7
+19. OS X 10.8
+20. OS X 10.9
 
-***
+Those are all the good environments
+Below it are the solid color ones which might not be implementable for a while due to Apples copyright
 
-## Read this article in a different language
+21. MacOS 10.10
+22. MacOS 10.11
+23. MacOS 10.12
+24. MacOS 10.13
+25. MacOS 10.14
+26. MacOS 10.15
+27. MacOS 10.16
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+It also has iOS theme functionality:
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+1. iPhone OS 1
+2. iPhone OS 2
+3. iPhone OS 3
+4. iOS 4
+5. iOS 5
+6. iOS 6
+7. iOS 7
+8. iOS 8
+9. iOS 9
+10. iOS 10
+11. iOS 11
+12. iOS 12
+13. iOS 13
 
-***
+# More info
 
-# Index
+WacOS will be a Linux based operating system that acts like MacOS, but with improved functionality, being more open, and having new and other features
 
-[00.0 - Top](#Top)
+its naming (LacOS didn't seem like a good name, as it sounds like "Lack OS" which shouldn't be associated with a Linux distribution, and it was 5:33 in the morning, so I don't know where the W came from. Just note the W does not stand for Windows
 
-> [00.1 - Title](#<projectName>)
+Pronounced like: Wack O S or Walk O S or however you would like to pronounce it
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+It can act as a MacOS port that isn't developed by apple, and doesn't need an expensive computer to run with. Linux users constantly go through phases of different operating systems themes, a lot of Linux users go through a MacOS phase, I haven't  yet, but I could in the future
+It will be highly functional, and will be written in C for the core, and Python for the system, as I want to continue to spread Python, it is a great programming language, it is simple to write, and very powerful
+Some features include a desktop interface changer that can make the distro function like any version of MacOS, without the restrictiveness, and proprietary functionality
+iOS and MacOS programs from System 1 to the latest version, and iPhone OS 1 to the latest version will be supported
 
-> [00.3 - Index](#Index)
+# Development requirements
 
-[01.0 - Description](#RepositoryName)
+The system will be at minimum 64 bit, but will contain 32 bit, 16 bit, 8 bit, and 4 bit libraries (I also plan on having 128 bit libraries)
 
-[02.0 - About](#About)
+The system MUST be light, with no more than 1 Gigabyte of RAM being used by the system itself at any time. On Idle, it should use no more than 500 Megabytes of RAM.
 
-[03.0 - Wiki](#Wiki)
+It must be compatible with virtualization software like VirtualBox, Qemu, VMWare, etc. If anyone wants to go through and make it compatible with hyper-V, it is completely optional
 
-[04.0 - Version history](#Version-history)
+If this is to be completed, it must be better than Windows and MacOS
 
-[05.0 - Software status](#Software-status)
+# Version history
 
-[06.0 - Sponsor info](#Sponsor-info)
+Concept releases
+-----------
 
-[07.0 - Contributers](#Contributers)
+1. [version1-0.0.a(Concept-release)](https://github.com/seanpm2001/WacOS/releases/tag/V0.0.A)
+2. [version2-0.0.b(Concept-release)](https://github.com/seanpm2001/WacOS/releases/tag/V0.0.B)
+3. [version3-0.0.c(Concept-release)](https://github.com/seanpm2001/WacOS/releases/tag/V0.0.C)
+4. [Coming soon](about:blank)
+5. [noos gnimoC](https://www.example.com)
 
-[08.0 - Issues](#Issues)
+Alpha releases
+-----------
 
-> [08.1 - Current issues](#Current-issues)
+**No Alpha releases have been made yet**
 
-> [08.2 - Past issues](#Past-issues)
+Beta releases
+-----------
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+**No Beta releases have been made yet**
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+Full releases
+-----------
 
-[09.0 - Resources](#Resources)
+**No Full releases have been made yet**
 
-[10.0 - Contributing](#Contributing)
+# Developers
 
-[11.0 - About README](#About-README)
+_Currently, there is only 1 developer. More will be added in the future. I can't maintain this project on my own, I am going to need volunteers._
 
-[12.0 - README Version history](#README-version-history)
+1. [SeanPM2001](https://github.com/seanpm2001) - 95 revisions (As of May 27th 2020 at 11:21 pm)
+2. No other developers
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+# Languages
 
-> [13.1 - End of file](#EOF)
+Human-spoken languages
+-----------
 
-***
+> Currently, the program is only supplied in the English language.
 
-# <repoName>
-<repo_description>
+Computer languages
+-----------
 
-***
+**Languages are listed in A-Z order**
 
-## About
+> 01. Assembly
+> 02. C
+> 03. Markdown
+> 04. Motorola S-RECORD
+> 05. Objective-C
+> 06. Python
+> 07. Swift
+> 08. SVG
+> 09. Text
+> 10. XML
 
-See above. <extendedRepoDescription>
+# ReadMe about
 
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
-
-***
+**ReadMe version: 6 (May 27th 2020 23:21 (11:21 pm))**
